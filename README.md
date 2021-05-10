@@ -18,3 +18,6 @@ As seen in the picture above, all messages will be separated by dashes. Addition
 
 Finally, colors of the window can be changed via dropdown menu, and all system fonts are available as choices for the chat itself.
 <img src = font_color_demo.png>
+
+## Concepts Learned
+While building out this application, I learned the fundamentals of polymorphism, inheritance, sockets, servers, networking, and java UI with swing. It also taught me the basics of how messaging applications like Facebook Messenger or Whatsapp work.
