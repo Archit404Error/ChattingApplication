@@ -1,4 +1,4 @@
-# ChattingApplication
+# PrivChat - Built for Privacy
 A simple end-to-end chatting application enabling users to communicate directly with once another via communication to a central server. Built in Java using Swing, Sockets, etc.
 
 ## Features
