@@ -12,9 +12,9 @@ The app currently enables users to:
 To run the app, simply configure the ChatServer.java file, run it, and then have all users run the ChatView.java file in order to connect to the server.
 
 Immediately after connecting to the chat, the following window should become visible:
-![connection pic]("connection_view.png")
+<img src = connection_view.png>
 
 As seen in the picture above, all messages will be separated by dashes. Additionally, all active users can be seen on the side of the screen.
 
 Finally, colors of the window can be changed via dropdown menu, and all system fonts are available as choices for the chat itself.
-![font pic]("font_color_demo.png")
+<img src = font_color_demo.png>
