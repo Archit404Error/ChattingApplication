@@ -11,4 +11,5 @@ The app currently enables users to:
 ## Running the app
 To run the app, simply configure the ChatServer.java file, run it, and then have all users run the ChatView.java file in order to connect to the server.
 
-
+Immediately after connecting to the chat, the following window should become visible:
+![connection pic]("connection_view.jpg")
